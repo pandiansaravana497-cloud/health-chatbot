@@ -108,7 +108,12 @@ python app.py
 
 ## 👨‍💻 Author
 
-**Saravana Pandian**
+** Pon Saravana Pandian**
+## Team Members:
+1) Sharmili V
+2) Pon Saravana Pandian B
+3) Suvetha K M S
+4) Hemapriya P
 
 ---
 
